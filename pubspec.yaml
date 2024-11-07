@@ -57,6 +57,13 @@ flutter:
     - assets/ic_menu.svg
     - assets/ic_avatar.svg
     - assets/ic_help.svg
+    - assets/ic_maternity.svg
+    - assets/ic_arrow.svg
+    - assets/ic_maternity_bill.svg
+    - assets/ic_appointment.svg
+    - assets/ic_enquiry.svg
+    - assets/ic_find_doctors.svg
+    - assets/ic_hospital_tour.svg
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
